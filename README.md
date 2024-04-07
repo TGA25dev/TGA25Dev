@@ -1,23 +1,3 @@
-<div align="center">
-  <img height="150" src="https://i.postimg.cc/GpjgBsgW/pp.png"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://discordapp.com/users/845327664143532053/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TGA25dev.TGA25dev&"  />
-</div>
-
-###
-
 <h1 align="center">Bonjour ! 👋</h1>
 
 ###
