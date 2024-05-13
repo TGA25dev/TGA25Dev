@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">France 🇫🇷<br><br>- 🔭  Programme en Python <br>- 📚 Actuellement au lycée<br>- ⚡ Que dire de plus...<br><br>Mon Bento :<br>https://bento.me/tga25</p>
+<p align="left">France 🇫🇷<br><br>Mon Bento :<br>https://bento.me/tga25</p>
 
 ###
 
