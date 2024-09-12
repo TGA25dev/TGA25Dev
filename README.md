@@ -1,38 +1,33 @@
-<div align="center">
-  <img height="150" src="https://i.postimg.cc/GpjgBsgW/pp.png"  />
-</div>
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
+
+`<h1 align="center">Bienvenue sur mon GitHub ! 🌃</h1>
 
 ###
 
-<div align="center">
-  <a href="https://discordapp.com/users/845327664143532053/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+👋 Moi c'est TGA25, étudiant dans un lycée pas loins de Paris. Actuellement en première je prevois de partir sur un parcours axé scientifique.
 
-###
+Passionné de tech depuis longtemps je partage certains de mes projets principaux ici (comme [Pronote Class Notifier]() par exemple. ✨
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TGA25dev.TGA25dev&"  />
-</div>
+Je suis plus à l'aise en Python mais je touche un peu aussi au Web avec HTML et CSS. 💻 
 
-###
+Au total j'ai passé tout ce temps à coder 👉  [![wakatime](https://wakatime.com/badge/user/018d9544-3b39-44e5-aef7-d9a941858836.svg?style=plastic)](https://wakatime.com/@018d9544-3b39-44e5-aef7-d9a941858836)
 
-<h1 align="center">Bonjour ! 👋</h1>
+[![Moon.svg](https://dday-widget.minung.dev/widget?text=Mon%20anniv%20%F0%9F%8E%82&date=2025-08-06&startDate=2008-09-06&theme=theme3)](https://dday-widget.minung.dev)
 
-###
+## 🛠 Mes outils et langages
 
-<h3 align="left">🚀  Comment ça va ?</h3>
-
-###
-
-<p align="left">France 🇫🇷<br><br>- 🔭  Programme en Python <br>- 📚 Actuellement au lycée<br>- ⚡ Que dire de plus...<br><br>Mon Bento :<br>https://bento.me/tga25</p>
-
-###
-
-<h3 align="left">🛠 Langages et outils</h3>
-
-###
 
 <div align="left">
   <img width="12" />
