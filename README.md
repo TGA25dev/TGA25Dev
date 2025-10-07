@@ -16,9 +16,7 @@
 
 ###
 
-👋 Moi c'est Tristan, étudiant dans un lycée pas loins de Paris. Actuellement en première je prevois de partir sur un parcours axé scientifique.
-
-Passionné de tech depuis longtemps je partage certains de mes projets principaux ici (comme [Pronot'if]() par exemple). ✨
+👋Passionné de tech depuis longtemps je partage certains de mes projets principaux ici (comme [Pronot'if]() par exemple). ✨
 
 Je suis plus à l'aise en Python mais je touche un peu aussi au Web avec HTML CSS et JavaScript. 💻 
 
