@@ -16,13 +16,7 @@
 
 ###
 
-👋Passionné de tech depuis longtemps je partage certains de mes projets principaux ici (comme [Pronot'if]() par exemple). ✨
-
-Je suis plus à l'aise en Python mais je touche un peu aussi au Web avec HTML CSS et JavaScript. 💻 
-
 Au total j'ai passé tout ce temps à coder 👉  [![wakatime](https://wakatime.com/badge/user/018d9544-3b39-44e5-aef7-d9a941858836.svg?style=flat)](https://wakatime.com/@018d9544-3b39-44e5-aef7-d9a941858836)
-
-[![Moon.svg](https://dday-widget.minung.dev/widget?text=Mon%20anniv%20%F0%9F%8E%82&date=2025-08-06&startDate=2008-09-06&theme=theme3)](https://dday-widget.minung.dev)
 
 ## 🛠 Mes outils et langages
 
